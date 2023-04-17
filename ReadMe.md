@@ -55,10 +55,10 @@ flux bootstrap gitlab \
 [-] practical example:
 
  ```
- flux bootstrap gitlab --hostname=gitlab.safaricom.co.ke \
+ flux bootstrap gitlab --hostname=gitlab.mycompany.com \
 --components-extra=image-reflector-controller,image-automation-controller \
 --owner=devsecops/fluxv2  --repository=fluxv2-aws   --branch=master   \
---path=clusters/AWS-DXL-UAT   --token-auth --personal  --network-policy=true \
+--path=clusters/AWS-sample1-UAT   --token-auth --personal  --network-policy=true \
 --watch-all-namespaces=true
 ```
 
