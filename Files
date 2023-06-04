@@ -1,0 +1,7 @@
+#### Tools to explore
+- Ahoy - Kubernetes release manager (https://github.com/lsdopen/ahoy/tree/master)
+- Kamaji - https://github.com/clastix/kamaji
+- crossplane - Infrastructure gitops
+- ArgoCd - Gitops/ application and infrastructure
+- Kyverno - PaC
+ 
